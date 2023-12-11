@@ -50,6 +50,7 @@ Projects using this template have these minimal dependencies:
 * Tox_ - for running the tests
 * Setuptools_ - for building the package, wheels etc. Now-days Setuptools is widely available, it shouldn't pose a
   problem :)
+* jinja2_time
 
 To get quickly started on a new system, just `install setuptools
 <https://pypi.org/project/setuptools#installation-instructions>`_ and then `install pip
